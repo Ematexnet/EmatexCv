@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+li {
+    font-style: italic;
+}
+.links {
+    font-style: normal;
+    font-weight: bold;
+}
+.container {
+    max-width: 840;
+    margin: 0 auto;
+}
+.intro {
+    text-align: center;
+}
